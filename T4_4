@@ -1,0 +1,75 @@
+<section class="section">
+    <div class="container">
+        <div class="columns">
+        
+            <!-- LEFT SIDE -->
+            <div class="column is-one-third">
+                <div class="columns is-multiline">
+
+                    <!-- Top Card -->
+                    <div class="column is-full">
+                        <div class="card">
+
+                            <!-- Avatar -->
+                            <div class="card-content is-horizontal-center is-flex"></div>
+                            
+                            <div class="card-content">
+
+                                <!-- Upload Button -->
+                                <div class="content has-text-centered"></div>
+                                <hr class="h-10">
+                                
+                                <!-- Member -->
+                                <article class="media"></article>
+                                <hr class="h-10">
+                                
+                                <!-- From -->
+                                <article></article>                                
+                                <hr class="h-10">
+
+                                <!-- Online Status -->
+                                <article></article>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Bottom Card -->
+                    <div class="column is-full">
+                        <div class="card">
+                            <div class="card-content">
+
+                                <!-- About -->
+                                <article></article>
+                                <hr class="h-10">
+
+                                <!-- Languages -->
+                                <article></article>
+                                <hr class="h-10">
+                                
+                                <!-- Linked Account -->
+                                <article class="media"></article>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- RIGHT SIDE -->
+            <div class="column">
+                <div class="columns is-multiline">
+
+                    <!-- Create New Gig -->
+                    <div class="column is-one-third has-text-centered"></div>
+
+                    <!-- Sample Gig -->
+                    <div class="column is-one-third has-text-centered"></div>
+                    
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
