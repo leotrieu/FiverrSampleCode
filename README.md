@@ -1,0 +1,1 @@
+This is sample code for my course "Build freelancer marketplace like Fiverr with Rails 6"
