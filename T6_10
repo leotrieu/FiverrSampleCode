@@ -1,0 +1,37 @@
+<section class="section">
+    <div class="container">
+        <div class="columns">
+
+            <!-- LEFT SIDE -->
+            <div class="column is-two-thirds">
+                <div class="columns is-multiline">
+
+                    <!-- Carousel -->
+                    <div class="column is-full">                        
+                    </div>
+
+                    <!-- About Section -->
+                    <div class="column">                        
+                    </div>
+                    
+                </div>
+            </div>
+
+            <!-- RIGHT SIDE -->
+            <div class="column">
+                <div class="columns is-multiline">
+
+                    <!-- Pricing Section -->
+                    <div class="column is-full">                        
+                    </div>
+
+                    <!-- Profile Section -->
+                    <div class="column">                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
