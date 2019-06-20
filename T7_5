@@ -1,0 +1,81 @@
+<!-- Pricing Section -->
+<div class="column is-full">
+
+    <div class="tabs is-fullwidth" id="tabs">
+        <ul>
+            <li class="tab is-active" data-tab="basic">
+                <a>Basic</a>
+            </li>
+            <li class="tab is-active" data-tab="standard">
+                <a>Standard</a>
+            </li>
+            <li class="tab is-active" data-tab="premium">
+                <a>Premium</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="tabs-content">
+        <div class="tab-content" id="tab-basic">
+            <div class="card">
+                <div class="card-content">
+                    <div class="media">
+                        <div class="media-content">
+                            <strong>Pikachu Package</strong>                                                                                                        
+                        </div>
+                        <div class="media-right">
+                            <p class="title is-4">$15</p>
+                        </div>                                                
+                    </div>
+                    <div class="content f-15">
+                        <p class="m-t-30">This is a basic package and I can do this job in 10 days.</p>
+                        <p class="m-t-30">
+                            <strong><i class="far fa-clock"></i> 10 Days %> Delivery</strong>                                                    
+                        </p>
+                    </div>
+                    <button class="button is-fullwidth is-danger">Continue ($15)</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<!-- Profile Section -->
+<div class="column">
+    <div class="card">
+        <div class="card-content is-horizontal-center is-flex">
+            <figure class="image is-96x96">
+                <!-- User Avatar Here -->
+            </figure>
+        </div>
+        <div class="card-content f-15">
+            <div class="content has-text-centered">
+                <p class="title is-5">Leo Trieu</p>
+                <button class="button is-black is-outlined is-fullwidth">Contact me</button>
+            </div>
+            <article class="media">
+                <div class="media-content">
+                    <i class="fas fa-user m-r-5"></i> Member since
+                </div>
+                <div class="media-right">
+                    May 2019
+                </div>
+            </article>
+            <article class="media">
+                <div class="media-content">
+                    <i class="fas fa-map-marker-alt m-r-5"></i> From
+                </div>
+                <div class="media-right">
+                    Australia
+                </div>
+            </article>
+            <article class="media">
+                <div class="media-content">
+                    I am a happy man
+                </div>
+            </article>
+        </div>
+    </div>
+</div>
