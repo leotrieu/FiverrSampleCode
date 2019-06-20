@@ -11,7 +11,7 @@
         <div class="card-content">
             <strong>Create a new gig</strong>
         </div>    
-        
+
     </div>
 </div>
 
@@ -36,7 +36,7 @@
         <footer class="card-footer">
             <a class="has-text-danger is-block card-footer-item has-text-right">
                 <span class="small-title">STARTING AT</span> 
-                <strong>$<%= basic_price.price %></strong>                                            
+                <strong>$25</strong>                                            
             </a>
         </footer>  
         
