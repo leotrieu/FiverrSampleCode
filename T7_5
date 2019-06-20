@@ -6,10 +6,10 @@
             <li class="tab is-active" data-tab="basic">
                 <a>Basic</a>
             </li>
-            <li class="tab is-active" data-tab="standard">
+            <li class="tab" data-tab="standard">
                 <a>Standard</a>
             </li>
-            <li class="tab is-active" data-tab="premium">
+            <li class="tab" data-tab="premium">
                 <a>Premium</a>
             </li>
         </ul>
