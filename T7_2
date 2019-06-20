@@ -1,0 +1,44 @@
+<!-- Create New Gig -->
+<div class="column is-one-third has-text-centered">
+    <div class="card">
+
+        <div class="card-image card-content is-horizontal-center is-flex ">
+            <figure class="image is-128x128 ">
+                <!-- Plus Icon Here -->
+            </figure>
+        </div>
+
+        <div class="card-content">
+            <strong>Create a new gig</strong>
+        </div>    
+        
+    </div>
+</div>
+
+
+<!-- Sample Gig -->
+<div class="column is-one-third">
+    <div class="card">
+
+        <div class="card-image">
+            <figure class="image is-4by3">
+                <!-- Gig Cover Image Here -->
+            </figure>
+        </div>
+
+        <div class="card-content p-t-5 p-b-5">
+            <p class="subtitle is-6 m-b-5">Gig Title</p>
+            <span class="star_review"><i class="fa fa-star"></i>
+                4.8 <span class="has-text-primary">(23)</span>
+            </span>                                        
+        </div>
+
+        <footer class="card-footer">
+            <a class="has-text-danger is-block card-footer-item has-text-right">
+                <span class="small-title">STARTING AT</span> 
+                <strong>$<%= basic_price.price %></strong>                                            
+            </a>
+        </footer>  
+        
+    </div>
+</div>
